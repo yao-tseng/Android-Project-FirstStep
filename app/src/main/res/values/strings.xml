@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstStep</string>
+    <string name="edit_text">Input text</string>
+    <string name="convert_btn">Convert</string>
+    <string name="uppercase">Uppercase</string>
+    <string name="uppercase_text">Text in UPPERCASE</string>
+    <string name="lowercase">Lowercase</string>
+    <string name="lowercase_text">Text in lowercase</string>
+</resources>
