@@ -1,13 +1,13 @@
 # Android-Project-FirstStep
 First step in Android Studio. Simple button function and string case convert.
 
-######Project develop using Android Studio
+###### Project develop using Android Studio
 
 Simple project utilizing *editText*, *button*, and *textView*. 
 
 
 
-##note
+## note
 Layout
 	*LinearLayout : aligns all children in a single direction, vertically or horizontally.
 		*(attribute)android:orientation
