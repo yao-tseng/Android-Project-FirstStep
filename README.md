@@ -7,7 +7,7 @@ Simple project utilizing *editText*, *button*, and *textView*.
 
 
 
-### note
+### note ------------------
 **Layout**
 1. LinearLayout : aligns all children in a single direction, vertically or horizontally.
    - (attribute)android:orientation
@@ -21,7 +21,7 @@ Simple project utilizing *editText*, *button*, and *textView*.
 **ViewGroup.LayoutParams**
 1. Attributes
    - android:layout_height : Specifies the basic height of the view
-     - android:layout_width : Specifies the basic width of the view
+   - android:layout_width : Specifies the basic width of the view
 2. Constants
    - fill_parent : The view should be as big as its parent. This is deprecated starting from API level 8 and is replaced by match parent
    - match_parent : The view should be as big as its parent
