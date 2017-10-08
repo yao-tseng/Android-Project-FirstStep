@@ -10,9 +10,9 @@ Simple project utilizing *editText*, *button*, and *textView*.
 #### note
 **Layout**
 1. LinearLayout : aligns all children in a single direction, vertically or horizontally.
-		- (attribute)android:orientation
-			- (constant)vertical
-			- (constant)horizontal
+- (attribute)android:orientation
+ - (constant)vertical
+ - (constant)horizontal
 2. RelativeLayout : displays childviews in relative positions
 3. RecyclerView
 4. List View : displays a list of scrollable items
