@@ -29,5 +29,5 @@ Simple project utilizing *editText*, *button*, and *textView*.
 
 
 ### ------------ upload to GitHub ------------
-**setup: ** 
+**setup: **
 File
