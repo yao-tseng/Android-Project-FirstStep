@@ -26,4 +26,6 @@ Simple project utilizing *editText*, *button*, and *textView*.
    - fill_parent : The view should be as big as its parent. This is deprecated starting from API level 8 and is replaced by match_parent
    - match_parent : The view should be as big as its parent
    - wrap_content : The view should be only big enough to enclose its content
-		
+
+
+
