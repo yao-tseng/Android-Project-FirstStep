@@ -7,7 +7,7 @@ Simple project utilizing *editText*, *button*, and *textView*.
 
 
 
-### note ------------------
+### ------------------ note ------------------
 **Layout**
 1. LinearLayout : aligns all children in a single direction, vertically or horizontally.
    - (attribute)android:orientation
@@ -28,4 +28,5 @@ Simple project utilizing *editText*, *button*, and *textView*.
    - wrap_content : The view should be only big enough to enclose its content
 
 
-
+### ------------ upload to GitHub ------------
+**setup: ** File
